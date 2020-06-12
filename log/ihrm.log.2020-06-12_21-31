@@ -1,0 +1,24 @@
+2020-06-12 21:31:15,628 INFO [root] [__init__.py(<module>:10)] - Test日志会不会打印！！！
+2020-06-12 21:31:15,925 INFO [root] [test_emp_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '528f651d-1e63-4767-9662-e260293b6c99'}
+2020-06-12 21:31:15,925 INFO [root] [test_emp_params.py(test01_login_success:39)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 528f651d-1e63-4767-9662-e260293b6c99'}
+2020-06-12 21:31:16,050 INFO [root] [test_emp_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '7d8bca84-1f1c-4805-b704-fcd0224b8f24'}
+2020-06-12 21:31:16,050 INFO [root] [test_emp_params.py(test01_login_success:39)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 7d8bca84-1f1c-4805-b704-fcd0224b8f24'}
+2020-06-12 21:31:16,174 INFO [root] [test_emp_params.py(test02_add_emp:53)] - 添加部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435002587983872'}}
+2020-06-12 21:31:16,174 INFO [root] [test_emp_params.py(test02_add_emp:57)] - 保存到全局变量的部门的ID为：1271435002587983872
+2020-06-12 21:31:16,300 INFO [root] [test_emp_params.py(test02_add_emp:64)] - 查询部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435002587983872', 'pid': '001', 'companyId': '1', 'name': '海军本部05', 'code': '0027', 'managerId': None, 'manager': '赤犬', 'introduce': '贯彻正义', 'createTime': None}}
+2020-06-12 21:31:16,425 INFO [root] [test_emp_params.py(test02_add_emp:71)] - 修改部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 21:31:16,534 INFO [root] [test_emp_params.py(test02_add_emp:78)] - 删除部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 21:31:16,659 INFO [root] [test_emp_params.py(test02_add_emp:53)] - 添加部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435004609638400'}}
+2020-06-12 21:31:16,659 INFO [root] [test_emp_params.py(test02_add_emp:57)] - 保存到全局变量的部门的ID为：1271435004609638400
+2020-06-12 21:31:16,784 INFO [root] [test_emp_params.py(test02_add_emp:64)] - 查询部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435004609638400', 'pid': '001', 'companyId': '1', 'name': '海军本部002', 'code': '0033', 'managerId': None, 'manager': '赤犬', 'introduce': '', 'createTime': None}}
+2020-06-12 21:31:16,922 INFO [root] [test_emp_params.py(test02_add_emp:71)] - 修改部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 21:31:17,031 INFO [root] [test_emp_params.py(test02_add_emp:78)] - 删除部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
+2020-06-12 21:31:17,156 INFO [root] [test_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'df914deb-8cc2-4ad3-b5a3-ebbee1e5b6f1'}
+2020-06-12 21:31:17,156 INFO [root] [test_login_params.py(test01_login_success:39)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer df914deb-8cc2-4ad3-b5a3-ebbee1e5b6f1'}
+2020-06-12 21:31:17,281 INFO [root] [test_login_params.py(test01_login_success:32)] - 登录的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '22e1eb5e-41cc-4dea-bb1b-aeed5594b830'}
+2020-06-12 21:31:17,281 INFO [root] [test_login_params.py(test01_login_success:39)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 22e1eb5e-41cc-4dea-bb1b-aeed5594b830'}
+2020-06-12 21:31:17,390 INFO [root] [test_login_params.py(test02_add_emp:53)] - 添加部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435007709229056'}}
+2020-06-12 21:31:17,390 INFO [root] [test_login_params.py(test02_add_emp:57)] - 保存到全局变量的部门的ID为：1271435007709229056
+2020-06-12 21:31:17,515 INFO [root] [test_login_params.py(test02_add_emp:64)] - 查询部门的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1271435007709229056', 'pid': '001', 'companyId': '1', 'name': '海军本部002', 'code': '0033', 'managerId': None, 'manager': '赤犬', 'introduce': '', 'createTime': None}}
+2020-06-12 21:31:17,625 INFO [root] [test_login_params.py(test02_add_emp:71)] - 修改部门的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}
+2020-06-12 21:31:17,750 INFO [root] [test_login_params.py(test02_add_emp:78)] - 删除部门的结果为：{'success': False, 'code': 99999, 'message': '抱歉，系统繁忙，请稍后重试！', 'data': None}

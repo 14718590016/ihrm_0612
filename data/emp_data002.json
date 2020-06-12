@@ -1,0 +1,17 @@
+[
+  {
+    "name": "海军本部002",
+    "code": "0033",
+    "manager": "赤犬",
+    "introduce": "",
+    "success": true,
+    "code1": 10000,
+    "message": "操作成功",
+    "http_code": 200,
+    "gainame": "七武海部002",
+    "gaicode": "0024",
+    "gaimanager": "",
+    "gaiint": "独霸一方",
+    "id": "123456789"
+  }
+]

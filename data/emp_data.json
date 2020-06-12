@@ -1,0 +1,16 @@
+[
+  {
+    "name": "海军本部05",
+    "code": "0027",
+    "manager": "赤犬",
+    "introduce": "贯彻正义",
+    "success": true,
+    "code1": 10000,
+    "message": "操作成功",
+    "http_code": 200,
+    "gainame": "七武海部003",
+    "gaicode": "0026",
+    "gaimanager": "自由",
+    "gaiint": "独霸一方"
+  }
+]
